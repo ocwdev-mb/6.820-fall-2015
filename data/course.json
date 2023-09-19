@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "legacy_uid": "a38a8b86-c034-6c3a-82ae-2ac776f95926",
+  "instructors": {
+    "content": [
+      "1d63ea51-df7f-8ba0-2214-ffee5b5b592a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dcbb2e46-1578-bee6-147c-e7c156ee6c17",
+    "website": "6-820-fundamentals-of-program-analysis-fall-2015"
+  },
+  "course_title": "Fundamentals of Program Analysis",
+  "course_description": "This course offers a comprehensive introduction to the field of program analysis. It covers some of the major forms of program analysis including Type Checking, Abstract Interpretation and Model Checking. For each of these, the course covers the underlying theories as well as modern techniques and applications.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.820",
+  "course_image_thumbnail": {
+    "content": "eaccf08c-fcd1-6747-f538-42348002274c",
+    "website": "6-820-fundamentals-of-program-analysis-fall-2015"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Programming Assignments"
+  ],
+  "site_uid": "265f19b9-8958-4155-af2e-090314499639",
+  "site_short_id": "6.820-fall-2015",
+  "title": "Course Metadata"
+}
